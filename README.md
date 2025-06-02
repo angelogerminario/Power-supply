@@ -1,3 +1,5 @@
+![Main image](https://raw.githubusercontent.com/angelogerminario/Power-supply/refs/heads/main/images/main_image.jpg)
+
 This is a modular 3d printed diy power supply. It's very low cost and can be made with easily accessible parts.
 
 The models are all easily printable on an FDM printer.
@@ -26,3 +28,10 @@ Everything is modular, so max voltage can be adapted to the user's needs by chan
 # 3D models
 
 3d models are available [Here](https://github.com/angelogerminario/Power-supply/tree/main/3d%20models)
+
+# Images of the product
+
+![Exploded](https://raw.githubusercontent.com/angelogerminario/Power-supply/refs/heads/main/images/exploded.jpg)
+![Front](https://raw.githubusercontent.com/angelogerminario/Power-supply/refs/heads/main/images/front_working.jpg)
+![Top](https://raw.githubusercontent.com/angelogerminario/Power-supply/refs/heads/main/images/top.jpg)
+![Back](https://raw.githubusercontent.com/angelogerminario/Power-supply/refs/heads/main/images/back.jpg)

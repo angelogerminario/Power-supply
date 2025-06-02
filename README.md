@@ -31,7 +31,7 @@ Everything is modular, so max voltage can be adapted to the user's needs by chan
 
 # Images of the product
 
-![Exploded](https://raw.githubusercontent.com/angelogerminario/Power-supply/refs/heads/main/images/exploded.jpg)
-![Front](https://raw.githubusercontent.com/angelogerminario/Power-supply/refs/heads/main/images/front_working.jpg)
-![Top](https://raw.githubusercontent.com/angelogerminario/Power-supply/refs/heads/main/images/top.jpg)
-![Back](https://raw.githubusercontent.com/angelogerminario/Power-supply/refs/heads/main/images/back.jpg)
+![Exploded](https://raw.githubusercontent.com/angelogerminario/Power-supply/refs/heads/main/images/exploded.png)
+![Front](https://raw.githubusercontent.com/angelogerminario/Power-supply/refs/heads/main/images/front_working.png)
+![Top](https://raw.githubusercontent.com/angelogerminario/Power-supply/refs/heads/main/images/top.png)
+![Back](https://raw.githubusercontent.com/angelogerminario/Power-supply/refs/heads/main/images/back.png)

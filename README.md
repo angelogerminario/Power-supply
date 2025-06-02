@@ -20,5 +20,9 @@ Everything is modular, so max voltage can be adapted to the user's needs by chan
 - WZ3605E DC-DC Buck Boost Converter 36V 5A
 - Any chinese 36V 5A power supply, most of them fit
 - Any 40mm pc fan
-	- Requires additional dc-dc step down, from internal power supply to fan 36V-->5V
+	- Requires additional dc-dc step down, from internal power supply to fan (36V to 5V)
 - Ac socket
+
+# 3D models
+
+3d models are available [Here](https://github.com/angelogerminario/Power-supply)

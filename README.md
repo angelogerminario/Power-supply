@@ -25,4 +25,4 @@ Everything is modular, so max voltage can be adapted to the user's needs by chan
 
 # 3D models
 
-3d models are available [Here](https://github.com/angelogerminario/Power-supply)
+3d models are available [Here](https://github.com/angelogerminario/Power-supply/tree/main/3d%20models)

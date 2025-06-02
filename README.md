@@ -15,8 +15,7 @@ Everything is modular, so max voltage can be adapted to the user's needs by chan
 
 # Components
 
-![Dc-Dc converter](https://raw.githubusercontent.com/angelogerminario/Power-supply/refs/heads/main/DC-DC.png)
-![Power supply](https://raw.githubusercontent.com/angelogerminario/Power-supply/refs/heads/main/Power%20supply.png)
+![Dc-Dc converter](https://raw.githubusercontent.com/angelogerminario/Power-supply/refs/heads/main/components_cover.png)
 
 - WZ3605E DC-DC Buck Boost Converter 36V 5A
 - Any chinese 36V 5A power supply, most of them fit
